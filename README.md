@@ -1,1 +1,1 @@
-# Itec4421
+# ITEC-442 e-Portfolio for iot and cyber security course.
