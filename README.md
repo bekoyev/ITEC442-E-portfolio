@@ -94,3 +94,25 @@ Monitor the software: Regularly check the software for signs of an attack, like 
 Consider alternatives: If possible, consider replacing the legacy software with a newer version that is supported and regularly updated with security patches.
 
                                                        Activity-3
+                                                       
+Having a backup system that works closely with a cybersecurity framework is important because it helps protect against data loss or corruption in the event of a cyber attack or other threat. Without a backup system, it's possible that an organization or individual may be unable to recover their data if it's lost or damaged.
+
+There are several ways in which a backup system and a cybersecurity framework are related:
+
+Data protection: A backup system helps protect against data loss or corruption by creating copies of data that can be used to restore the original data if it's lost or damaged. This is especially important in the event of a cyber attack, as it can help prevent the permanent loss of data.
+
+Disaster recovery: A backup system can also help with disaster recovery efforts in the event of a natural disaster or other event that causes data loss. By having copies of data stored in a secure location, an organization or individual can quickly recover their data and get back to business as usual.
+
+Security: A backup system can also help improve security by providing an additional layer of protection against data loss or corruption. For example, if a cyber attack results in the loss of data, the organization or individual can restore the data from a backup to minimize the impact of the attack.
+
+To backup my data on a personal computer, I would follow these steps:
+
+Determine the data to be backed up: First, I would identify the data that needs to be backed up. This could include important documents, photos, and other personal files.
+
+Choose a backup method: Next, I would decide on a method for backing up my data. Options might include using an external hard drive, cloud storage, or a local network storage device.
+
+Configure the backup: Once I have chosen a backup method, I would set up the backup settings to determine how often the data should be backed up and where the backups should be stored.
+
+Test the backup: Before relying on the backup system, I would test it to ensure that it's working properly and that I can access the backed-up data if needed.
+
+Monitor the backup: Finally, I would regularly monitor the backup system to ensure that it's working as intended and to identify any potential issues that may need to be addressed.                                                       
