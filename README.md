@@ -20,7 +20,9 @@ Question-4
 
 
 --------------------------------------------------LAB=2--------------------------------------------------------------------------
+
 Solar wind cyber kill chain example 
+
 ![solar wind cyber kill chain](https://user-images.githubusercontent.com/96496988/208735170-cf88799c-310c-49c8-ba6d-745c7f46b1ca.png)
 
 ![solar wind 2](https://user-images.githubusercontent.com/96496988/208735221-10eef8a3-ccec-4561-a9ed-a03f8110e53d.png)
