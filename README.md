@@ -29,6 +29,7 @@ Solar wind cyber kill chain example
 
 --------------------------------------------------End of Unit Activities---------------------------------------------------------
 
+Activity-1
 Cloud storage refers to the practice of storing data on remote servers that can be accessed over the internet, rather than on a local computer or external hard drive. There are many benefits and drawbacks to using cloud storage from a cybersecurity perspective.
 
 Benefits of Cloud Storage:
@@ -61,3 +62,31 @@ Data loss: Both cloud and local storage systems are at risk of data loss, but th
 
 In conclusion, both cloud and local storage systems have their own benefits and drawbacks from a cybersecurity perspective. While cloud storage can offer improved security and automatic backups, it does depend on internet connectivity and can be more expensive. Local storage offers more control over data, but it is at risk of physical theft or damage.
 
+Activity-2
+Sure, here is a revised version of the previous response written in a student style:
+
+In 2017, the WannaCry ransomware attack caused widespread damage on a global scale. There are several precautions and safeguards that could have been put in place to prevent this attack:
+
+Regular software updates: It's important to keep all software up to date with the latest patches and security updates to prevent vulnerabilities from being exploited.
+
+Firewalls: Using firewalls to block access to known malicious websites and IP addresses can help prevent ransomware attacks.
+
+Anti-virus software: Installing and regularly updating anti-virus software can help detect and remove malware before it can cause harm.
+
+User education: Educating users on best practices for cyber security, such as avoiding suspicious emails and links, can help prevent ransomware attacks.
+
+Data backups: Regularly backing up important data can help ensure that it can be recovered in the event of a ransomware attack.
+
+Network segmentation: Dividing the network into different zones can help limit the spread of ransomware within an organization.
+
+If you need to protect your computer against attacks caused by legacy software without updates, here are some steps you can take:
+
+Uninstall or disable the software: If a software update is not available and the software is no longer needed, it's best to uninstall or disable it to reduce the risk of an attack.
+
+Isolate the software: If the software is necessary and can't be uninstalled or disabled, you can isolate it from the rest of the system to reduce the risk of an attack spreading.
+
+Use additional security measures: In addition to the measures listed above, such as firewalls and anti-virus software, you can also use additional security measures like network segmentation and regular data backups to protect against attacks caused by legacy software.
+
+Monitor the software: Regularly check the software for signs of an attack, like unusual activity or error messages, to identify and respond to an attack promptly.
+
+Consider alternatives: If possible, consider replacing the legacy software with a newer version that is supported and regularly updated with security patches.
