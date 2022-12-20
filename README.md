@@ -116,3 +116,27 @@ Configure the backup: Once I have chosen a backup method, I would set up the bac
 Test the backup: Before relying on the backup system, I would test it to ensure that it's working properly and that I can access the backed-up data if needed.
 
 Monitor the backup: Finally, I would regularly monitor the backup system to ensure that it's working as intended and to identify any potential issues that may need to be addressed.                                                       
+
+                                                  Simulating Dos Attack
+                                                  
+![nbtstat](https://user-images.githubusercontent.com/96496988/208742335-289a9c9b-fe97-4d18-9c42-66ce0c88e584.png)
+
+![netstat1](https://user-images.githubusercontent.com/96496988/208742417-55230557-510e-4234-bafa-ca7ace0fff80.png)
+
+![tracert](https://user-images.githubusercontent.com/96496988/208742455-cc59c65d-8764-47de-bb7a-544e788d2cff.png)
+
+![arp1](https://user-images.githubusercontent.com/96496988/208742518-0cbd5d59-b191-4067-b520-cbd4860c1a37.png)
+
+![arp2](https://user-images.githubusercontent.com/96496988/208742552-ebce74a5-b3c1-4ea5-88af-ca1898e7f848.png)
+
+![netstat -e](https://user-images.githubusercontent.com/96496988/208742597-2f689b53-ef9a-4f74-b235-3fcff34602f5.png)
+
+![ipconfig](https://user-images.githubusercontent.com/96496988/208742653-d35a64d3-0da4-4ed1-8d5a-3f6fe395a83a.png)
+
+![nslookup](https://user-images.githubusercontent.com/96496988/208742748-5bd892fc-0d67-42c4-9f8b-3f402b12f52c.png)
+
+![tracert](https://user-images.githubusercontent.com/96496988/208742779-4c3f311b-8fb6-4eb6-8fa4-208fe290e6d8.png)
+
+
+
+                                         
