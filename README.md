@@ -92,3 +92,5 @@ Use additional security measures: In addition to the measures listed above, such
 Monitor the software: Regularly check the software for signs of an attack, like unusual activity or error messages, to identify and respond to an attack promptly.
 
 Consider alternatives: If possible, consider replacing the legacy software with a newer version that is supported and regularly updated with security patches.
+
+                                                       Activity-3
