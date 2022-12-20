@@ -137,6 +137,9 @@ Monitor the backup: Finally, I would regularly monitor the backup system to ensu
 
 ![tracert](https://user-images.githubusercontent.com/96496988/208742779-4c3f311b-8fb6-4eb6-8fa4-208fe290e6d8.png)
 
-
+                                                 Honey Pot
+ ![ifconfig](https://user-images.githubusercontent.com/96496988/208758434-5c6d9534-22e2-4040-9af7-4b3d94ba0119.png)
+                                                
+                                                 
 
                                          
