@@ -1,5 +1,5 @@
 # ITEC-442 e-Portfolio for iot and cyber security course.
---------------------------------------------------LAB=1--------------------------------------------------------------------------
+                                                         LAB=1
 
 Question-1
 
@@ -19,7 +19,7 @@ Question-4
 ![5](https://user-images.githubusercontent.com/96496988/200848122-f45b3ef4-b895-4838-907e-28b9dcb99cd6.png)
 
 
---------------------------------------------------LAB=2--------------------------------------------------------------------------
+                                                          LAB=2
 
 Solar wind cyber kill chain example 
 
@@ -27,9 +27,9 @@ Solar wind cyber kill chain example
 
 ![solar wind 2](https://user-images.githubusercontent.com/96496988/208735221-10eef8a3-ccec-4561-a9ed-a03f8110e53d.png)
 
---------------------------------------------------End of Unit Activities---------------------------------------------------------
-
-                                                       Activity-1
+                                                   End of Unit Activities
+                                                       
+                                                         Activity-1
 
 Cloud storage refers to the practice of storing data on remote servers that can be accessed over the internet, rather than on a local computer or external hard drive. There are many benefits and drawbacks to using cloud storage from a cybersecurity perspective.
 
@@ -63,7 +63,7 @@ Data loss: Both cloud and local storage systems are at risk of data loss, but th
 
 In conclusion, both cloud and local storage systems have their own benefits and drawbacks from a cybersecurity perspective. While cloud storage can offer improved security and automatic backups, it does depend on internet connectivity and can be more expensive. Local storage offers more control over data, but it is at risk of physical theft or damage.
 
-                                                         Activity-2
+                                                           Activity-2
 
 Sure, here is a revised version of the previous response written in a student style:
 
@@ -93,7 +93,7 @@ Monitor the software: Regularly check the software for signs of an attack, like 
 
 Consider alternatives: If possible, consider replacing the legacy software with a newer version that is supported and regularly updated with security patches.
 
-                                                       Activity-3
+                                                             Activity-3
                                                        
 Having a backup system that works closely with a cybersecurity framework is important because it helps protect against data loss or corruption in the event of a cyber attack or other threat. Without a backup system, it's possible that an organization or individual may be unable to recover their data if it's lost or damaged.
 
@@ -117,7 +117,7 @@ Test the backup: Before relying on the backup system, I would test it to ensure 
 
 Monitor the backup: Finally, I would regularly monitor the backup system to ensure that it's working as intended and to identify any potential issues that may need to be addressed.                                                       
 
-                                                  Simulating Dos Attack
+                                                        Simulating Dos Attack
                                                   
 ![nbtstat](https://user-images.githubusercontent.com/96496988/208742335-289a9c9b-fe97-4d18-9c42-66ce0c88e584.png)
 
@@ -137,15 +137,15 @@ Monitor the backup: Finally, I would regularly monitor the backup system to ensu
 
 ![tracert](https://user-images.githubusercontent.com/96496988/208742779-4c3f311b-8fb6-4eb6-8fa4-208fe290e6d8.png)
 
-                                                 Honey Pot
+                                                         Honey Pot
  ![ifconfig](https://user-images.githubusercontent.com/96496988/208758434-5c6d9534-22e2-4040-9af7-4b3d94ba0119.png)
                                                 
                                                  
 
-                                               SELECTING An IoT INFRASTRUCTURE
+                                                    SELECTING An IoT INFRASTRUCTURE
                                                
                                                
-                                               IoT Infrastructure
+                                                      IoT Infrastructure
 
 A typical Internet of Things (IoT) infrastructure setup for greenhouses may include the following components:
 
@@ -162,7 +162,7 @@ ACTUATORS: These devices allow the system to perform automated actions based on 
 CONTROLERS: These devices allow the system to be remotely monitored and controlled, often through a smartphone or computer.
 
 
-                                                 CONSTRAINTS
+                                                        CONSTRAINTS
 
 There are several constraints that you may face when operating a greenhouse, including:
 
