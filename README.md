@@ -29,7 +29,8 @@ Solar wind cyber kill chain example
 
 --------------------------------------------------End of Unit Activities---------------------------------------------------------
 
-Activity-1
+                                                       Activity-1
+
 Cloud storage refers to the practice of storing data on remote servers that can be accessed over the internet, rather than on a local computer or external hard drive. There are many benefits and drawbacks to using cloud storage from a cybersecurity perspective.
 
 Benefits of Cloud Storage:
@@ -62,7 +63,8 @@ Data loss: Both cloud and local storage systems are at risk of data loss, but th
 
 In conclusion, both cloud and local storage systems have their own benefits and drawbacks from a cybersecurity perspective. While cloud storage can offer improved security and automatic backups, it does depend on internet connectivity and can be more expensive. Local storage offers more control over data, but it is at risk of physical theft or damage.
 
-Activity-2
+                                                         Activity-2
+
 Sure, here is a revised version of the previous response written in a student style:
 
 In 2017, the WannaCry ransomware attack caused widespread damage on a global scale. There are several precautions and safeguards that could have been put in place to prevent this attack:
